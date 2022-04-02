@@ -20,3 +20,5 @@
 <p title="Support">You can join us on any issue related to Snake Rido Update and Support in Telegram.</p>
 <a href="https://t.me/SnakeUserBot" target="_blank"><img src="images/telegramchannelsupport.svg"/></a>
 <a href="https://t.me/SnakeRido" target="_blank"><img src="images/telegramgroupsupport.svg"/></a>
+
+Credits :- @ridogram
