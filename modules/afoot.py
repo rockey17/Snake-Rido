@@ -5,8 +5,8 @@ from platform import python_version
 
 client = modules.client.client
 
-@events.register(events.NewMessage(outgoing=True, pattern=r'\.afoot'))
-async def runafoot(event):
+@events.register(events.NewMessage(outgoing=True, pattern=r'\.alive'))
+async def runalive(event):
     await event.delete()
     ridogramuserdetails = await event.get_sender()
     messagelocation = event.to_id
