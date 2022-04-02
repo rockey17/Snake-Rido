@@ -1,14 +1,14 @@
 {
-    "name": "Ridogram",
-    "description": "Ridogram is an advanced multi-featured Telegram UserBot built into Python using the Telethon.",
-    "logo": "https://telegra.ph/file/5f0e2d045243c6ab2a4a0.jpg",
+    "name": "Snake Rido",
+    "description": "Snake Rido is an advanced multi-featured Telegram UserBot built into Python using the Telethon.",
+    "logo": "https://telegra.ph/file/b861edafb332c473a847d.jpg",
     "keywords": [
       "userbot",
       "plugins",
       "modules",
       "productivity"
     ],
-    "repository": "https://github.com/theridwanul/Ridogram",
+    "repository": "https://github.com/rockey17/Snake-Rido",
     "env": {
       "api_id": {
         "description": "Collect this value from my.telegram.org and do not share it with anyone.",
